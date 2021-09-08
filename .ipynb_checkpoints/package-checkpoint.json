@@ -1,0 +1,24 @@
+{
+  "name": "first-cli-app-with-node",
+  "version": "1.0.0",
+  "description": "This is a lesson to review existing skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hoangvo92/First-CLi-App-with-Node.git"
+  },
+  "keywords": [
+    "git",
+    "node",
+    "cli"
+  ],
+  "author": "Hoang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hoangvo92/First-CLi-App-with-Node/issues"
+  },
+  "homepage": "https://github.com/Hoangvo92/First-CLi-App-with-Node#readme"
+}

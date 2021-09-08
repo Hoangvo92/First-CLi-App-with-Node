@@ -1,0 +1,3 @@
+npm install chalk clear clui figlet inquirer minimist configstore commander @octokit/rest lodash simple-git touch --save
+
+touch index.js
